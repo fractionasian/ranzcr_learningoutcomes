@@ -1,10 +1,3 @@
----
-aliases: 
-tags: 
-date created: 2025-01-24
-date modified: 2025-01-26
----
-
 # SECTION THREE - TREATMENT MODALITIES
 ## Overview
 
