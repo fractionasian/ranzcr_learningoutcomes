@@ -1,9 +1,3 @@
----
-aliases: 
-tags: 
-date created: 2025-01-24
-date modified: 2025-01-26
----
 
 # Section Four: Symptom Control and Palliative Care
 Competencies articulated in this section focus on the ability of a radiation oncologist to:
