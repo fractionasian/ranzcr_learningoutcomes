@@ -1,5 +1,5 @@
 
-# SECTION SIX INTRINSIC ROLES
+# SECTION SIX: INTRINSIC ROLES
 
 ## Overview
 Competencies articulated in this section focus on the ability of a radiation oncologist to:
