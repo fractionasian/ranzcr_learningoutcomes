@@ -1,4 +1,4 @@
-# SECTION THREE - TREATMENT MODALITIES
+# SECTION THREE: TREATMENT MODALITIES
 ## Overview
 
 Competencies articulated in this section focus on the ability of a radiation oncologist to:
