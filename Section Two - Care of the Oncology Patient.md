@@ -1,5 +1,6 @@
 # SECTION TWO: CARE OF THE ONCOLOGY PATIENT
 ## Overview
+
 Competencies articulated in this section focus on the ability of a radiation oncologist to:
 - Apply oncology science knowledge in clinical situations and clinical decision-making
 - Apply an understanding of the pathological basis of disease to the diagnosis of malignancy, managementplan and prognosis for the patient
@@ -14,6 +15,7 @@ Section Five – Care of the Oncology Patient Applied to Specific Tumour Sites b
 
 ## PRINCIPLES OF CARE
 1. **Applied anatomy**
+
 The trainee is able to clinically apply anatomy knowledge and:
 - 1.1 Perform an appropriate physical examination in order to identify the primary tumour site and potential sites of tumour spread
 - 1.2 Define tumour and normal tissue volumes during the radiation therapy planning process.
@@ -21,6 +23,7 @@ The trainee is able to clinically apply anatomy knowledge and:
 - 1.4 Discuss how surgical intervention can interfere with normal anatomy
 
 2. **Pathology**
+
 The trainee is able to:
 - 2.1. Discuss the patient and tumour factors which influence tumour and normal tissue outcomes
 - 2.2. Evaluate the optimal methods of obtaining a diagnosis of malignancy, including the advantages and disadvantages of biopsy methods for various types of cancer
@@ -77,6 +80,7 @@ For each tumour site and type listed in Section Five, the trainee is able to dis
 - 2.14. Prognostic and predictive factors.
 
 3. **Clinical assessment**
+
 The trainee is able to:
 - 3.1. Obtain accurate and relevant information from history and physical examination to determine probable diagnosis, extent of disease and other relevant factors (e.g. comorbidity, fertility) that inform clinical decision-making
 - 3.2. Identify and explore patient issues, concerns and beliefs within the scope of a focused consultation
@@ -86,6 +90,7 @@ The trainee is able to:
 - 3.6. Arrange appropriate referrals prior to treatment (e.g. dentist).
 
 4. **Management**
+
 The trainee is able to:
 - 4.1. Identify indications for treatment based on available evidence and national or international guidelines
 - 4.2. Determine and justify the intent of treatment (e.g. cure, local control, prolongation of life, symptom palliation)
@@ -99,6 +104,7 @@ The trainee is able to:
 Also refer to Section 3 – Treatment Modalities.
 
 5. **Symptom control and treatment side-effects**
+
 **Symptom Control**
 - 5.1. Recognise and manage common paraneoplastic syndromes in patients with confirmed malignancy
 - 5.2. Manage cancer symptoms and symptoms which arise as a result of cancer treatment, in order to maximise quality of life and minimise the burden of disease for the patient and significant others
@@ -114,6 +120,7 @@ Also refer to Section 3 – Treatment Modalities.
 Also refer to Symptom Control within Section 4 – Symptom Control and Palliative Care.
 
 6. **Outcome and continuing care**
+
 The trainee is able to:
 
 **Outcome**
@@ -139,6 +146,7 @@ The trainee is able to:
 Also refer to Palliative Care within Section 4 – Symptom Control and Palliative Care
 
 7. **Screening and prevention**
+
 The trainee is able to:
 - 7.1. Discuss the various cancer screening programs available for the general population and in high risk groups
 - 7.2. Describe the clinical relevance of common predisposing conditions, including BRCA1, BRCA2, multiple endocrine neoplasia (MEN), Li-Fraumeni, Peutz-Jeghers syndrome and Lynch syndrome
@@ -150,6 +158,7 @@ The trainee is able to:
 In addition to content outlined in this section, when arriving at a management plan, the trainee should be able to:
 
 1. **Paediatric patients**
+
 The spectrum of paediatric cancer is unique because it is not defined by histological entity but by age (generally accepted as under 16 years). When arriving at a management plan the trainee should be able to:
 - 1.1. Discuss the importance of age and developmental status
 - 1.2. Consider the use of genetic testing and involvement of a familial cancer service
@@ -161,6 +170,7 @@ The spectrum of paediatric cancer is unique because it is not defined by histolo
 - 1.8. Be aware of late effects follow-up guidelines (e.g. International Late Effects of Childhood Cancer Guideline Harmonization Group (IGHG)).
 
 2. **Adolescent or young adult patients**
+
 A patient aged 15 to 25 years may be referred to as an adolescent and young adult (AYA). The issues experienced by AYA patients with cancer differ from both paediatric and older adults, given the critical time in physical and psychosocial maturation that the illness occurs.
 - 2.1. Discuss factors that can lead to delays in diagnosis in AYA patients
 - 2.2. Consider the patient’s age-specific physical, psychosocial, sexual and practical needs
