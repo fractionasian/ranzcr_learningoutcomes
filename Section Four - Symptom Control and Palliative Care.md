@@ -1,5 +1,4 @@
-
-# Section Four: Symptom Control and Palliative Care
+# SECTION FOUR: SYMPTOM CONTROL AND PALLIATIVE CARE
 Competencies articulated in this section focus on the ability of a radiation oncologist to:
 - Manage common symptoms and conditions that occur in patients with cancer
 - Provide holistic management to the terminally ill patient.
