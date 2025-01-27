@@ -1,5 +1,4 @@
-
-# Anatomy
+# ANATOMY
 
 For each anatomical site or organ listed (refer to Appendix 1), the trainee is able to:
 1. Discuss the macroscopic and microscopic appearance
