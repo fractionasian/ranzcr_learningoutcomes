@@ -19,6 +19,7 @@ The trainee is able to:
 	- [ ] 1.3.4. The evolution of ‘standard’ fractionation schedules.
 
 2. **Normal cell structure and functions relevant to neoplasia** [G]
+
 The trainee is able to discuss:
 - [ ] 2.1. Normal cell structure
 - [ ] 2.2. The structure of eukaryotic genes (e.g. open reading frame, untranslated regions, introns, exons, regulatory elements)
@@ -37,6 +38,7 @@ The trainee is able to discuss:
 	- [ ] 2.8.3. Signal transduction (e.g. MAPK/ERK, RAS, RAF pathways).
 
 3. **Mechanisms of malignant cell transformation and progression** [D]
+
 The trainee is able to discuss:
 - [ ] 3.1. Dysregulation of cancer-associated genes
 	- [ ] 3.1.1. Mechanisms, including sequence-level (e.g. point mutation) and chromosome-level (e.g. translocation) genetic changes, epigenetic/telomeric changes and polymorphisms
@@ -66,6 +68,7 @@ The trainee is able to discuss:
 - [ ] 3.8. Intra-tumour heterogeneity.
 
 4. **Tumour growth** [D]
+
 The trainee is able to discuss:
 - [ ] 4.1. Gompertzian growth of untreated cancers, including the concepts of:
 	- [ ] 4.1.1. Tumour doubling time (Td)
@@ -78,6 +81,7 @@ The trainee is able to discuss:
 - [ ] 4.4. The concept and mechanism of accelerated repopulation following radiation.
 
 5. **Radiation-induced cellular damage** [D]
+
 The trainee is able to discuss:
 - [ ] 5.1. The evidence for DNA being the clinically relevant target for cell killing [G]
 - [ ] 5.2. Other targets of radiation damage
@@ -90,6 +94,7 @@ The trainee is able to discuss:
 - [ ] 5.9. The bystander effect.
 
 6. **DNA double-strand break repair** [D]
+
 The trainee is able to discuss:
 - [ ] 6.1. Processes involved in the DNA double-strand break (DSB) repair response, including:
 	- [ ] 6.1.1. Sensing DNA DSB
@@ -103,6 +108,7 @@ The trainee is able to discuss:
 - [ ] 6.3. The genetic diseases that affect DNA repair/clinically apparent radiosensitivity (e.g. ataxia telangiectasia).
 
 7. **Quantifying cell survival following irradiation** [D]
+
 The trainee is able to discuss:
 - [ ] 7.1. The concept of cell survival curves
 - [ ] 7.2. In-vitro and in-vivo techniques to generate survival curves [G]
@@ -113,6 +119,7 @@ The trainee is able to discuss:
 	- [ ] 7.4.3. Limitations of the linear quadratic formula (e.g. do not apply to high radio-ablative doses per fraction).
 
 8. **Fractionation and the ‘5 Rs’** [D]
+
 The trainee is able to discuss:
 - [ ] 8.1. The ‘5 Rs’ of fractionation and their significance in clinical practice:
 	- [ ] 8.1.1. Intrinsic radiosensitivity
@@ -128,6 +135,7 @@ The trainee is able to discuss:
 - [ ] 8.4. Relevance of the ‘5 Rs’ and other putative mechanisms to the response to very high dose per fraction (stereotactic) radiation therapy.
 
 9. **The linear-quadratic dose response and the α/β ratio in clinical practice** [D]
+
 The trainee is able to discuss:
 - [ ] 9.1. Relationship between dose/fraction and tissue α/β ratio
 - [ ] 9.2. Effect of incomplete repair between fractions
@@ -142,6 +150,7 @@ The trainee is able to discuss:
 - [ ] 9.6. Dose rate effects in brachytherapy.
 
 10. **Hypoxia and the oxygen effect** [D]
+
 The trainee is able to discuss:
 - [ ] 10.1. Modification of radiation-induced DNA damage by oxygen
 - [ ] 10.2. The oxygen enhancement ratio (OER)
@@ -150,6 +159,7 @@ The trainee is able to discuss:
 - [ ] 10.5. Tumour responses to hypoxia occurring at the molecular level, including the role of transcription factor HIF1-α and its effect on tumour metabolism, pH of tumour microenvironment, vasculature and angiogenesis, and increased propensity for metastasis and genetic instability. [G]
 
 11. **Radiation quality** [D]
+
 The trainee is able to discuss:
 - [ ] 11.1. Types of ionising radiation
 - [ ] 11.2. LET and its relationship to direct and indirect DNA damage, free radicals and free radical scavengers
@@ -157,6 +167,7 @@ The trainee is able to discuss:
 - [ ] 11.4. The relationship between LET and OER.
 
 12. **Dose response for tumour control** [D]
+
 The trainee is able to discuss:
 - [ ] 12.1. Shape of the dose-response curve
 - [ ] 12.2. The determinants of the steepness of the dose-response curve
@@ -170,6 +181,7 @@ The trainee is able to discuss:
 - [ ] 12.6. Tumour control probability curves.
 
 13. **Effects of radiation on normal tissues** [D]
+
 The trainee is able to discuss:
 - [ ] 13.1. Acute, sub-acute and late side-effects from radiation
 - [ ] 13.2. The meaning of latency with regard to normal tissue effects
@@ -196,6 +208,7 @@ The trainee is able to discuss:
 - [ ] 13.13. Methods of biological dosimetry for unplanned or uncontrolled radiation exposure, including blood counts, chromosome aberrations in peripheral blood lymphocytes (dicentric assay, translocation assay), ƴ-H2AX, mitotic index, micronucleus and comet assays. [G]
 
 14. **Effects of radiation on the human embryo and foetus** [D]
+
 The trainee is able to discuss:
 - [ ] 14.1. The major phases of fetal development, including CNS growth and corresponding gestational age
 - [ ] 14.2. The nature of and reasons for effects caused in utero
@@ -203,12 +216,14 @@ The trainee is able to discuss:
 - [ ] 14.4. The definition of doubling dose.
 
 15. **Quantification of radiation effects on normal tissues** [G]
+
 The trainee is able to discuss:
 - [ ] 15.1. Principles of toxicity scoring systems used in current clinical practice, including selection of appropriate endpoints and quantification
 - [ ] 15.2. Examples of toxicity scoring systems used in current clinical practice (e.g. RTOG, common toxicity criteria, LENT/SOMA)
 - [ ] 15.3. Tolerance doses of normal tissues/organs, including the QUANTEC data and its limitations.
 
 16. **Radiation carcinogenesis** [D]
+
 The trainee is able to describe:
 - [ ] 16.1. The shape of the dose-response curve for this effect, including the peaks for leukaemia but not for solid tumours
 - [ ] 16.2. Threshold vs. non-threshold uncertainty
@@ -216,6 +231,7 @@ The trainee is able to describe:
 - [ ] 16.4. Relevance of integral dose in radiation therapy to second cancer induction risk.
 
 17. **Combination of radiation with other therapies** [D]
+
 The trainee is able to discuss:
 - [ ] 17.1. The radiobiological basis and rationale for combining surgery and radiation in the preoperative, postoperative and intra-operative settings:
 - [ ] 17.1.1. The titration of radiation dose according to tumour cell ‘burden’, including macroscopic vs. microscopic disease.
@@ -229,6 +245,7 @@ The trainee is able to discuss:
 - [ ] 17.9. The impact on acute and late side-effects arising from combining radiation with other treatments.
 
 18. **Retreatment with radiation therapy** [D]
+
 The trainee is able to discuss:
 - [ ] 18.1. The radiobiological principles for consideration of re-treatment, including initial radiation therapy dose (EQD2), volume, volume of overlap, and technique used
 - [ ] 18.2. The effect of radiation modifiers used in treatment of the first tumour (e.g. concurrent chemotherapy)
@@ -237,11 +254,13 @@ The trainee is able to discuss:
 
 ## PHASE 2
 19. **Specialised radiation therapy techniques** [D]
+
 The trainee is able to describe:
 - [ ] 19.1. The radiobiological principles as they relate to brachytherapy, including low dose rate, high dose rate and pulsed treatments
 - [ ] 19.2. The radiobiological principles and implications of specialised methods for external beam radiation delivery, including ablative stereotactic radiosurgery and radiation therapy, tomotherapy, intensity-modulated radiation therapy (IMRT) and particle therapy.
 
 20. **Further application of cancer biology to systemic therapy** [G]
+
 The trainee is able to discuss:
 - [ ] 20.1. A classification of systemic agents, including cytotoxic chemotherapy, endocrine therapy, cell membrane receptor blockers, cell signalling pathway inhibitors, immunotherapy, radio-sensitisers and radio-protectors
 - [ ] 20.2. The mechanism of action of commonly used systemic therapies, including phase-specific and cell cycle specific agents and immune checkpoint inhibitors
@@ -249,6 +268,7 @@ The trainee is able to discuss:
 - [ ] 20.4. Individualisation of systemic treatments based on molecular features or other biomarkers (e.g. PD-L1).
 
 21. **Molecular analysis in oncology** [G]
+
 The trainee is able to discuss in general terms the methods for and examples of usage of:
 - [ ] 21.1. Nucleic acid hybridisation, including northern and southern blot analysis, DNA microarrays and comparative genomic hybridisation (CGH)
 - [ ] 21.2. Protein analysis – Western blot analysis, immunoprecipitation, immunohistochemistry, proteomics (two-dimensional gels, mass spectrometry)
@@ -262,6 +282,7 @@ The trainee is able to discuss in general terms the methods for and examples of 
 - [ ] 21.10. Systems biology and bioinformatics, including definitions and application to DNA microarrays and proteomics.
 
 22. **Treatment interruptions** [D]
+
 The trainee is able to discuss:
 - [ ] 22.1. Common causes of treatment interruptions
 - [ ] 22.2. Impact of treatment interruptions on tumour control
