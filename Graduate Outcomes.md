@@ -1,0 +1,31 @@
+---
+aliases: 
+tags: 
+date created: 2025-01-26
+date modified: 2025-01-27
+---
+
+# GRADUATE OUTCOMES
+- Apply oncology science knowledge and an understanding of the pathological basis of disease to the diagnosis of malignancy, and the management and prognosis of patients.
+- Diagnose, investigate and manage patients’ cancer-related symptoms and treatment-related side-effects.
+- Apply tumour-site specific knowledge to the care of each patient to optimise:
+	- assessment;
+	- management, including the use of radiation therapy and other treatment modalities which will be most effective;
+	- control of cancer-related symptoms and treatment related side effects;
+	- clinical outcome; and
+	- patients’ continuing care.
+- Appreciate the differing needs of oncology patients from specific populations and tailor their care accordingly.
+- Evaluate the role of screening and cancer prevention strategies and refer patients as indicated.
+- Provide holistic management to the terminally ill patient.
+- Establish professional therapeutic relationships with patients in order to elicit information, develop a patient-centred management plan and navigate challenging communication scenarios.
+- Document and share patient information in an effective manner, including in written and electronic formats, to optimise clinical decision making, cultural and patient safety, confidentiality and privacy.
+- Develop and maintain working relationships with other health professionals, engaging in respectful shared decision making and ensuring continuity of care.
+- Display leadership in local and wider healthcare systems, initiating and carrying out quality improvements, and exhibiting responsible stewardship of cancer care resources.
+- Manage elements of professional practice, career development and personal life to balance wellbeing with optimal patient care.
+- Apply expertise and influence, individually or as part of a collective, to advance cancer care outcomes on behalf of individual patients, groups of people with cancer and the general community.
+- Promote cultural safety and tailor care according to patients’ diverse needs, including religious and personal beliefs and values.
+- Advance the health of Aboriginal and Torres Strait Islander peoples and Maori and Pacific peoples by being aware of disparities in relation to incidence of cancer, diagnosis and treatment and actively support access to cancer care treatment for communities and patients.
+- Consistently demonstrate professional behaviour, in accordance with the RANZCR Code of Ethics, reflecting the values of the specialty and medical profession in general.
+- Critically appraise scientific literature and adapt clinical practice according to the best available evidence.
+- Design and engage in research to address a clinical question and disseminate findings to contribute to the advancement of radiation oncology as a specialty.
+- Apply a lifelong learning approach to professional development and participate in the education of students, peers, patients and other health professionals.
