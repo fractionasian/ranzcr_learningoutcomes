@@ -1,10 +1,3 @@
----
-aliases: 
-tags: 
-date created: 2025-01-26
-date modified: 2025-01-27
----
-
 # GRADUATE OUTCOMES
 - Apply oncology science knowledge and an understanding of the pathological basis of disease to the diagnosis of malignancy, and the management and prognosis of patients.
 - Diagnose, investigate and manage patients’ cancer-related symptoms and treatment-related side-effects.
