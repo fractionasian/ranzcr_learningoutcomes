@@ -1,10 +1,3 @@
----
-aliases: 
-tags: 
-date created: 2025-01-24
-date modified: 2025-01-27
----
-
 # SECTION TWO: CARE OF THE ONCOLOGY PATIENT
 ## Overview
 Competencies articulated in this section focus on the ability of a radiation oncologist to:
