@@ -3,6 +3,7 @@
 ## PHASE 1
 
 1. **Radiation and interactions with matter** [D]
+
 The trainee is able to:
 - [ ] 1.1. Describe the fundamentals of an atom in terms of:
 	- [ ] 1.1.1. Structure – nucleus, orbital shells, energy levels, binding energy
@@ -20,10 +21,12 @@ The trainee is able to:
 	- [ ] 1.3.2. Efficiency of X-ray production and its dependence on electron energy and target atomic number
 
 2. **Fundamental radiation quantities and units** [D]
+
 The trainee is able to define and give units for:
 - [ ] 2.1 Absorbed dose, kinetic energy released per unit mass (kerma), relative biological effectiveness, equivalent dose, effective dose, attenuation coefficient.
 
 3. **Principles of image production and use in radiation therapy** [D]
+
 The trainee is able to:
 - [ ] 3.1. Describe the principles and sources of uncertainty for imaging modalities used for treatment planning:
 	- [ ] 3.1.1. Computed tomography (CT) scanning, including 4D-CT
@@ -32,6 +35,7 @@ The trainee is able to:
 - [ ] 3.2. Describe imaging techniques used to verify treatment accuracy (e.g. electronic portal imaging, on-board kV, cone beam CT, ultrasound (US), infrared (IR) tracking systems, MRI).
 
 4. **Kilovoltage (kV) photon beam radiation therapy** [D]
+
 The trainee is able to:
 - [ ] 4.1 Describe the construction of a kV therapy unit and explain how a treatment beam is generated:
 	- [ ] 4.1.1. Discuss how the beam aperture is collimated using applicators and lead cut-outs
@@ -48,6 +52,7 @@ The trainee is able to:
 	- [ ] 4.3.4. Effects of tissue heterogeneity and patient irregularity, i.e. effects on dose distribution of patient contour, bone, lung, air cavities, dose within bone cavities, interface effects, effects of electronic disequilibrium.
 
 5. **Megavoltage (MV) photon beam radiation therapy** [D]
+
 The trainee is able to:
 - [ ] 5.1. Describe the construction of a linear accelerator and explain how an MV photon beam can be generated:
 	- [ ] 5.1.1. Discuss how the beam aperture can be altered using Cerrobend blocking, multi-leaf collimators, independent jaws and stereotactic cones
@@ -77,6 +82,7 @@ The trainee is able to:
 - [ ] 5.7. Describe the principles of intensity modulated radiation therapy and be able to distinguish features of step-and-shoot and dynamic deliveries, including dynamic arcs (VMAT).
 
 6. **Electron beam radiation therapy** [D]
+
 The trainee is able to:
 - [ ] 6.1. Explain how an electron beam can be generated from a linear accelerator
 - [ ] 6.2. Describe the characteristics of an electron beam – energy spectra, energy specification, variation of mean energy with depth, photon contamination
@@ -88,6 +94,7 @@ The trainee is able to:
 - [ ] 6.5. Discuss methods of field shaping and the effect on surface dose.
 
 7. **Treatment planning and delivery for photon and electron beams** [D]
+
 The trainee is able to:
 - [ ] 7.1. Discuss different equipment and methods for patient simulation
 - [ ] 7.2. Describe the principles of immobilisation and methods/equipment used
@@ -116,6 +123,7 @@ The trainee is able to:
 - [ ] 7.12. Describe the principles of off-line and on-line adaptive radiation therapy techniques, including plan library ‘plan of the day’ approaches, patient-specific margins from initial treatments, daily plan adjustments and adaptive re-planning based on verification imaging. [D]
 
 8. **Measurement of radiation** [G]
+
 The trainee is able to:
 - [ ] 8.1. Describe measurements of treatment beams, including choice of suitable radiation detector, specifically: 
 	- [ ] 8.1.1. Radiation phantoms and other dosimetry tools
@@ -127,6 +135,7 @@ The trainee is able to:
 	- [ ] 8.2.2. Geiger-Muller counters, ion chamber survey meters, scintillation counters, environmental survey dosimeters.
 
 9. **Radioactivity** [D]
+
 The trainee is able to:
 - [ ] 9.1. Describe radioactivity in terms of:
 	- [ ] 9.1.1. Radionuclide decay processes (e.g. alpha, beta, positron, gamma, electron capture, internal conversion)
@@ -136,6 +145,7 @@ The trainee is able to:
 	- [ ] 9.2.1. Activity, specific activity and reference air kerma rate.
 
 10. **Fundamentals of sealed source radionuclides and brachytherapy** [D]
+
 The trainee is able to:
 - [ ] 10.1. Discuss the radioactive sources used in sealed source brachytherapy in terms of:
 	- [ ] 10.1.1. Construction – source construction, including filtration [G]
@@ -153,6 +163,7 @@ The trainee is able to:
 	- [ ] 10.2.5. Dosage systems – Paris and Manchester systems, production of conformal dose distributions using a single, stepping source.
 
 11. **Unsealed source radionuclide therapy** [G]
+
 The trainee is able to:
 - [ ] 11.1. Discuss the concepts of uptake, distribution and elimination
 - [ ] 11.2. Define physical, biological and effective half-life
@@ -165,6 +176,7 @@ The trainee is able to:
 	- [ ] 11.4.5. Management – safe handling, storage, transport, cleaning up spills.
 
 12. **Radiation protection** [D]
+
 The trainee is able to describe and demonstrate understanding of:
 - [ ] 12.1. The ‘as low as reasonably achievable’ (ALARA) principle
 - [ ] 12.2. International Commission on Radiological Protection (ICRP) recommended dose limits, the basis for international recommended limits, specific ICRP and national radiation protection standards
@@ -182,6 +194,7 @@ The trainee is able to describe and demonstrate understanding of:
 ## PHASE 2
 
 1. **Applied external photon beam radiation therapy** [D]
+
 The trainee is able to:
 - [ ] 1.1. Discuss the clinical advantages and disadvantages of intensity-modulated radiation therapy (IMRT) compared with 3D-CRT
 - [ ] 1.2. Discuss the differences between stationary field and rotational (arc) IMRT – the latter usually referred to as VMAT
@@ -196,12 +209,14 @@ The trainee is able to:
 - [ ] 1.7. Discuss the physical aspects of total body irradiation (TBI).
 
 2. **Applied electron beam radiation therapy** [D]
+
 The trainee is able to:
 - [ ] 2.1. Select, compare and describe the physical aspects of treatment techniques in terms of:
 	- [ ] 2.1.1. Simple techniques – single fields, multiple adjacent fields, multiple energies
 	- [ ] 2.1.2. Specialised techniques – electron arc therapy, total skin electron irradiation, modulated electron radiotherapy (MERT) techniques. [G]
 
 3. **Applied sealed source radionuclides and brachytherapy** [D]
+
 The trainee is able to:
 - [ ] 3.1. Discuss sealed source brachytherapy in terms of:
 	- [ ] 3.1.1. Clinical uses treating various anatomical sites – surface applications, eye plaques, interstitial implants, intracavitary techniques
@@ -211,6 +226,7 @@ The trainee is able to:
 	- [ ] 3.1.5. Procedures for beta emitters – surface and ophthalmic applications, intravascular techniques, techniques of delivery – unique applicators and methods of use. [G]
 
 4. **Advanced technologies** [G]
+
 The trainee is able to:
 - [ ] 4.1. Describe the clinical applications, principles of use, advantages and disadvantages of:
 	- [ ] 4.1.1. Gamma Knife®
@@ -225,13 +241,14 @@ The trainee is able to:
 		- [ ] 4.2.2.3. Beams produced by passive scattering foils and active scanning.
 	- [ ] 4.2.3. Biological advantages and disadvantages of proton therapy vs. conventional therapy.
 
-5. **Selection of an appropriate modality and technique to solve clinical problems**
-[D]
+5. **Selection of an appropriate modality and technique to solve clinical problems** [D]
+
 The trainee is able to:
 - [ ] 5.1. Select and justify the choice of treatment modality and technique for specific clinical circumstances, including choice of photons vs. electrons, external beam vs. brachytherapy, selection of beam arrangements and energies and choice of other technical parameters
 - [ ] 5.2. Discuss the modifications to technique and dosimetry, and quality assurance issues which may apply to pregnant patients receiving radiation to non-abdominal sites.
 
 6. **Commissioning and quality assurance of radiation therapy techniques** [D]
+
 The trainee is able to:
 - [ ] 6.1. Discuss the process of commissioning a treatment technique, including data acquisition and establishment of baseline values for quality management
 - [ ] 6.2. Discuss methods of verifying the actual delivery of dose as modelled by the planning system
