@@ -1,10 +1,3 @@
----
-aliases: 
-tags: 
-date created: 2025-01-24
-date modified: 2025-01-28
----
-
 # SECTION FIVE: CARE OF THE ONCOLOGY PATIENT APPLIED TO SPECIFIC TUMOUR SITES
 ## Overview
 
